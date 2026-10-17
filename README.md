@@ -46,9 +46,12 @@ docs/
   DRT.md                          Full technical report (French)
   DRT-ORION-Consulting-Group.pdf  Same report, PDF version
   images/                         Screenshots used in the report
+  addressing-plan.xlsx            IP addressing plan and VLAN layout
+  rbac-matrix.pdf                 Access matrix between VLANs, DMZ and servers
 diagrams/
   infrastructure.png / .svg       Overall architecture
   vpn-ipsec.png                   Site-to-site tunnel
+  network-sketch.pkt              First network sketch (Cisco Packet Tracer)
 ```
 
 ## Possible improvements
